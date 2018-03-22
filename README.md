@@ -1,21 +1,26 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [MindNode](https://mindnode.com)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [MindNode](https://mindnode.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](.github/screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+Just double click the `dracula.mindnodetheme` to install the theme. The theme
+is now available through the theme selector.
+
+All instructions can be found at
+[draculatheme.com/mindnode](https://draculatheme.com/mindnode).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome
+This theme is maintained by the following person and a bunch of [awesome
 contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+
+[![Eivind Lindbråten](https://avatars1.githubusercontent.com/u/202450?s=70&v=3)](https://github.com/nesl247) | 
+--- |
+[Eivind Lindbråten](https://github.com/eivindml) | 
 
 ## License
 
