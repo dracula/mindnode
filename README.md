@@ -2,7 +2,7 @@
 
 > A dark theme for [MindNode](https://mindnode.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/mindnode.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
